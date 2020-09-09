@@ -99,7 +99,8 @@ You have the option to change a few Settings inside the LUA. These are found dir
    ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/LUASettings.png?raw=true)
    
 ##### 6. Start TemTem and move to the desired Spot
-
+   Your Team should look like this(example):
+   ![alt text](https://github.com/Muchacho13Scripts/Nessla-Self-Heal-TV-Trainer/blob/master/Team.png?raw=true)
    
 ##### 7. Start the Script and check your Settings 
    Default Button to start is 'F3'
