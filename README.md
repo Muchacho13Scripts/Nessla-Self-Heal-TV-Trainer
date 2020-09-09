@@ -53,6 +53,8 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ##### Number of enemies to kill for desired TV
    - This is the amount of kills that your Tem needs to get the desired TV
    - max should be 500 when using no Proteins, 250 if you use Proteins
+   - Example: You want 100 TV in Speed, you fight on an 100% Skail (1 TV per kill) Spot, and have Proteins(double TV per kill) equipped, so you need to make it 50
+   - It is possible that it kills 1 or 2 Tems too much. If it is important to you to have the exact desired TV, make it about 4-5 less and kill the last few Tems by yourself
 
 ##### Your VM Name or Number
    - This is only for Telegram notification if you have multiple VM's to know which VM found a Luma
