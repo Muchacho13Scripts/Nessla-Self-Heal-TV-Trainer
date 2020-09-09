@@ -68,6 +68,10 @@ You have the option to change a few Settings inside the LUA. These are found dir
 ##### Using Cowards Cloak as Gear?
    - Set this to '1' if you have the last Tem equipped with the Cowards Cloak
    
+## Notifications Screenshot
+
+   ![alt text](https://github.com/Muchacho13Scripts/Nessla-Self-Heal-TV-Trainer/blob/master/Notifications.jpg?raw=true)
+   
 ## How-To
 
 ##### 1. Download the Script
