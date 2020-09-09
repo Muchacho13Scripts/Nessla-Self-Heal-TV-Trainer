@@ -99,9 +99,7 @@ You have the option to change a few Settings inside the LUA. These are found dir
    ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/LUASettings.png?raw=true)
    
 ##### 6. Start TemTem and move to the desired Spot
-   Start here:
-   
-   ![alt text](https://github.com/Muchacho13Scripts/KisiwaDesertScript/blob/master/img/startlocation.png?raw=true)
+
    
 ##### 7. Start the Script and check your Settings 
    Default Button to start is 'F3'
